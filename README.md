@@ -34,7 +34,7 @@
 I'm pivoting from engineering to software testing with strong discipline, a love for quality, and a mindset focused on **details**, **communication**, and **consistency**.
 
 I'm actively looking for:
-- 🌎 Remote or on site QA roles (Manual, API, or Automation)
+- 🌎 Remote or on-site QA roles (Manual, API, or Automation)
 - 🌍 International or Cairo-based companies
 - 🤝 Teams that value clean processes and strong bug reporting
 
@@ -56,6 +56,8 @@ I'm actively looking for:
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
+
+### 📊 GitHub Stats
 
 ![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanahmedd1998&show_icons=true&theme=tokyonight&hide_title=true)
 
