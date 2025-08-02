@@ -43,7 +43,7 @@ I'm actively looking for:
 ### 📬 Reach Me
 
 - 📧 Email: abdelrahmanibrahimm1998@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ibrahim-2572a5378/)  
 
 ---
 ---
