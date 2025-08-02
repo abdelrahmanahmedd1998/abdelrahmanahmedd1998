@@ -40,11 +40,10 @@ I'm actively looking for:
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Reach Me
 
-- 📧 Email: abdo.qatest@gmail.com  
+- 📧 Email: abdelrahmanibrahimm1998@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 🌐 Portfolio Website: (optional)
 
 ---
 
