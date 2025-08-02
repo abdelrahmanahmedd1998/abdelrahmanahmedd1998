@@ -46,6 +46,16 @@ I'm actively looking for:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
 
 ---
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+</p>
 
 ![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanahmedd1998&show_icons=true&theme=tokyonight&hide_title=true)
 
