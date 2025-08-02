@@ -34,7 +34,7 @@
 I'm pivoting from engineering to software testing with strong discipline, a love for quality, and a mindset focused on **details**, **communication**, and **consistency**.
 
 I'm actively looking for:
-- 🌎 Remote QA roles (Manual, API, or Automation)
+- 🌎 Remote or on site QA roles (Manual, API, or Automation)
 - 🌍 International or Cairo-based companies
 - 🤝 Teams that value clean processes and strong bug reporting
 
