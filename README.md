@@ -17,6 +17,7 @@
 
 - 📌 [Daftra ERP System Testing](https://github.com/abdelrahmanahmedd1998/Daftra-ERP-) – Manual test cases, bug reports, Excel tracking
 - 📌 [ELAGI API Testing](https://github.com/abdelrahmanahmedd1998/Elagi-API-testing) – Full e-commerce API testing with Postman
+- 📌 [WUZZUF Automation Testing](https://github.com/abdelrahmanahmedd1998/WUZZUF-job-automation) – End-to-end automation testing with Selenium, Java, TestNG, and ExtentReports
 
 ---
 
